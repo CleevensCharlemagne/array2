@@ -2,7 +2,7 @@
 
 int main () {
 
-   int n[ 10 ];
+   int n[ 10 ]; /* n is an array of 10 integers */
    int i,j;
 
 
